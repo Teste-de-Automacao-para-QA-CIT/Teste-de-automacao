@@ -20,9 +20,9 @@ Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Teste
 No código dos testes é necessário alterar o caminho do arquivo do ChromeDrive para o da máquina.
 
 Exemplo: 
-
+```
 File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); //Coloque o caminho para o seu chromedrive
-
+```
 
 ## Integrantes do grupo
 
