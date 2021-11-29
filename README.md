@@ -13,6 +13,9 @@ Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Teste
 ## Instalação
 É necessario instalar o Selenium e o arquivo ChromeDrive compativel com o seu navegador
 
+- Neste trabalho estamos usando o Java SE Development Kit 11.0.13, pois no teste da segunda parte usamos o método .lines() que só pode
+ser usado nesta versão.
+
 - ChromeDriver: https://chromedriver.chromium.org/
 
 - Selenium: https://www.selenium.dev/downloads/
