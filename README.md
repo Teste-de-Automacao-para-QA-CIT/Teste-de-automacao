@@ -1,5 +1,8 @@
 # Teste de Automação para QA - CI&T
 
+[![NPM](https://img.shields.io/apm/l/react)](https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
+
+
 ### Objetivo:
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
 Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Testes de Automação com o framework Selenium.
@@ -44,5 +47,3 @@ Após instalar e modificar o caminho do arquivo, selecione o código que será t
     <td align="center"><a href="https://www.linkedin.com/in/amanda-evangelista-batista-353ab4199/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91705283?v=4" width="100px;" alt=""/><br/><b>Amanda Batista<br>LinkedIn </b></a><br /><a href="https://github.com/AmandaBatista015" title="Git-Hub"><sub>Git-Hub</sub></a></td>
   </tr>
 </table>
-
-[![NPM](https://img.shields.io/apm/l/react)](https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
