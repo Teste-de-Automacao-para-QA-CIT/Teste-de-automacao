@@ -1,7 +1,6 @@
 # Teste de Automação para QA - CI&T
 
-[![NPM](https://img.shields.io/apm/l/react)](https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
-
+![APM](https://img.shields.io/apm/l/react)(https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
 
 ### Objetivo:
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
@@ -16,9 +15,19 @@ Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Teste
 - Neste trabalho estamos usando o Java SE Development Kit 11.0.13, pois no teste da segunda parte usamos o método .lines() que só pode
 ser usado nesta versão.
 
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
 - ChromeDriver: https://chromedriver.chromium.org/
 
 - Selenium: https://www.selenium.dev/downloads/
+
+- Netbeans
+
+- JDK 11
+
+- Junit: https://junit.org/junit5/
 
 No código dos testes é necessário alterar o caminho do arquivo do ChromeDrive para o da máquina.
 
