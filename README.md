@@ -19,15 +19,15 @@ ser usado nesta versão.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- ChromeDriver: https://chromedriver.chromium.org/
+- [ChromeDriver](https://chromedriver.chromium.org/)
 
-- Selenium: https://www.selenium.dev/downloads/
+- [Selenium](https://www.selenium.dev/downloads/)
 
-- Netbeans
+- [Netbeans](https://netbeans.apache.org/download/index.html)
 
-- JDK 11
+- [JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 
-- Junit: https://junit.org/junit5/
+- [Junit](https://junit.org/junit5/)
 
 No código dos testes é necessário alterar o caminho do arquivo do ChromeDrive para o da máquina.
 
