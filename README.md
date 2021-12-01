@@ -6,6 +6,8 @@
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
 Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Testes de Automação com o framework Selenium.
 
+Link para o repositório do desafio:  https://github.com/dhiegobastos/qa-test
+
 
 ### Os testes realizados estão na pasta "test"!
 
