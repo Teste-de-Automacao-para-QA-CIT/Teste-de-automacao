@@ -1,6 +1,8 @@
-Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA. 
-
 # Teste de Automação para QA - CI&T
+
+![APM](https://img.shields.io/apm/l/react)
+
+https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE
 
 ### Objetivo:
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
