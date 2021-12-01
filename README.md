@@ -26,6 +26,11 @@ Exemplo:
 ```
 File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); //Coloque o caminho para o seu chromedrive
 ```
+Todo o código e execução do mesmo foi feito usando a IDE Netbeans.
+
+## Execução
+
+Após instalar e modificar o caminho do arquivo, o código poderá ser testado clicando no botão 'Executar Projeto', localizado na parte de cima da janela, ou teclando Shift + F6. Após isso irá abrir a janela do navegador para validar as linhas de código referentes ao teste, e fechar automaticamente caso o mesmo tenha sido bem sucedido.
 
 ## Integrantes do grupo
 
