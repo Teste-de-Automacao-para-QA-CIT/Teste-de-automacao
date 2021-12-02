@@ -35,15 +35,15 @@ public class TerceiraParte extends TestCase {
 
         WebDriver driver = new ChromeDriver(); 
 
-        driver.get("https://opentdb.com/browse.php");
+        driver.get("https://opentdb.com/");
         
-        driver.findElement(By.partialLinkText("/login")).click();
+        driver.findElement(By.xpath("//*[@id=\"navbar\"]/ul/li[5]/a")).click();
 
         WebDriverWait wait = new WebDriverWait(driver, 30);
 
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.partialLinkText("register.")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"page-top\"]/div[2]/form/div[4]/a")));
 
-        driver.findElement(By.partialLinkText("register.")).click();
+        driver.findElement(By.xpath("//*[@id=\"page-top\"]/div[2]/form/div[4]/a")).click();
 
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("username")));
 
