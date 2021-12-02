@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/apm/l/react?style=for-the-badge)](https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
 
-## Objetivo:
+## 🔎 Objetivo:
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
 Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Testes de Automação com o framework Selenium.
 
@@ -46,7 +46,7 @@ Todo o código e execução do mesmo foi feito usando a IDE Netbeans.
 
 Após instalar e modificar o caminho do arquivo, selecione o código que será testado, clique com o botão direito e selecione testar arquivo, ou teclando ctrl + F6. Após isso irá abrir a janela do navegador para validar as linhas de código referentes ao teste, e fechar automaticamente caso o mesmo tenha sido bem sucedido.
 
-## 👩‍💻💻  Integrantes do grupo 👨‍
+## 👨‍💻 Integrantes do grupo 👩‍💻
 ---
 <table>
   <tr>
