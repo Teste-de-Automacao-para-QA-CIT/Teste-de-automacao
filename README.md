@@ -11,7 +11,7 @@ Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Teste
 Link para o repositório do desafio:  https://github.com/dhiegobastos/qa-test
 
 
-### 📁 Os testes realizados estão na pasta "test"!
+### 📁 Os testes realizados estão na pasta "test"
 
 ## 🖥 Instalação e Pré-Requisitos
 
