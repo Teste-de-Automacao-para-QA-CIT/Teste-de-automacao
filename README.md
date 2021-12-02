@@ -11,13 +11,13 @@ Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Teste
 Link para o repositório do desafio:  https://github.com/dhiegobastos/qa-test
 
 
-### 📁 Os testes realizados estão na pasta "test"
+### 📁 Os testes realizados estão localizados na pasta "test"
 
 ## 🖥 Instalação e Pré-Requisitos
 
-É necessario instalar o Selenium e o arquivo ChromeDrive compativel com o seu navegador
+É necessario instalar o Selenium e o arquivo ChromeDrive compativel com a versão do seu navegador
 
-- Neste trabalho estamos usando o Java SE Development Kit 11.0.13, pois no teste da segunda parte usamos o método .lines() que só pode
+- Neste trabalho estamos usando o Java SE Development Kit 11.0.13, pois usamos o método .lines() que só pode
 ser usado nesta versão.
 
 ## 🛠 Tecnologias
@@ -34,14 +34,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Junit](https://junit.org/junit5/)
 
-No código dos testes é necessário alterar o caminho do arquivo do ChromeDrive para o da máquina.
+No código dos testes é necessário alterar o caminho do arquivo do ChromeDrive.
 
 Exemplo: 
 ```
 File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); 
-//Coloque o caminho para o seu chromedrive
+//Coloque o caminho em que está localizado o seu chromedrive
 ```
-Todo o código e execução do mesmo foi feito usando a IDE Netbeans.
+Todo o código e execução do mesmo foi feito usando a IDE [Netbeans](https://netbeans.apache.org/download/index.html).
 
 ## 🎲 Execução
 
