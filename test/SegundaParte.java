@@ -33,7 +33,7 @@ public class SegundaParte extends TestCase {
         WebDriver driver = new ChromeDriver(); //Iniciando driver de navegação
 
         driver.get("https://opentdb.com/browse.php");// Link para busca 
-        driver.findElement(By.id("type")).sendKeys(tipo);//Seleciona o elemento de seleção do tipo de pesquisa pelo ID e define um favor
+        driver.findElement(By.id("type")).sendKeys(tipo);//Seleciona o elemento de seleção do tipo de pesquisa pelo ID e define um valor
         driver.findElement(By.id("query")).sendKeys(category);//Seleciona o elemento de input de pesquisa pelo ID e preenche ele
         driver.findElement(By.xpath("//*[@id=\"page-top\"]/div[1]/form/div/button")).click();//Seleciona o botão pelo caminho xpath
 
