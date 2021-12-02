@@ -11,6 +11,15 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 Cenário Gherkin:
 
+Funcionalidade: Busca por categoria  
+Cenário: Busca de questões pela categoria
+Dado que navego para a página de busca do banco de questões
+E mudo o filtro de busca para ‘categoria’
+E dígito 'Science: Computers' no campo de pesquisa
+Quando clico no botão de pesquisa
+Então visualizo uma listagem de questões com 25 itens 
+E visualizo o controle de paginação
+
  */
 
 public class SegundaParte extends TestCase {
