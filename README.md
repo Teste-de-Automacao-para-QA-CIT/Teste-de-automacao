@@ -6,18 +6,21 @@
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
 Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Testes de Automação com o framework Selenium.
 
+---
+
 Link para o repositório do desafio:  https://github.com/dhiegobastos/qa-test
 
 
-### Os testes realizados estão na pasta "test"!
+### 📁 Os testes realizados estão na pasta "test"!
 
-## Instalação e Pré-Requisitos
+## 🖥 Instalação e Pré-Requisitos
+
 É necessario instalar o Selenium e o arquivo ChromeDrive compativel com o seu navegador
 
 - Neste trabalho estamos usando o Java SE Development Kit 11.0.13, pois no teste da segunda parte usamos o método .lines() que só pode
 ser usado nesta versão.
 
-## Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -39,12 +42,12 @@ File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); //Coloque o ca
 ```
 Todo o código e execução do mesmo foi feito usando a IDE Netbeans.
 
-## Execução
+## 🎲 Execução
 
 Após instalar e modificar o caminho do arquivo, selecione o código que será testado, clique com o botão direito e selecione testar arquivo, ou teclando ctrl + F6. Após isso irá abrir a janela do navegador para validar as linhas de código referentes ao teste, e fechar automaticamente caso o mesmo tenha sido bem sucedido.
 
-## Integrantes do grupo
-
+## 👩‍💻👨‍💻  Integrantes do grupo
+---
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/david-jacobis/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79882277?s=400&u=5b89e0ae40e565f9ce16bb76cd526d0e187c0dd7&v=4" width="100px;" alt=""/><br /><b> David Jacobis<br>LinkedIn </b></a><br /><a href="https://github.com/David-Jacobis" title="Git-Hub"><sub>Git-Hub</sub></a></td>
@@ -58,3 +61,7 @@ Após instalar e modificar o caminho do arquivo, selecione o código que será t
     <td align="center"><a href="https://www.linkedin.com/in/amanda-evangelista-batista-353ab4199/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91705283?v=4" width="100px;" alt=""/><br/><b>Amanda Batista<br>LinkedIn </b></a><br /><a href="https://github.com/AmandaBatista015" title="Git-Hub"><sub>Git-Hub</sub></a></td>
   </tr>
 </table>
+
+<h4 align="center"> 
+	🚧  Projeto 🚀 Em construção...  🚧
+</h4>
