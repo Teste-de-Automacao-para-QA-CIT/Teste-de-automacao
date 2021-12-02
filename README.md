@@ -38,7 +38,8 @@ No código dos testes é necessário alterar o caminho do arquivo do ChromeDrive
 
 Exemplo: 
 ```
-File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); //Coloque o caminho para o seu chromedrive
+File file = new File("Caminho-Para-o-Arquivo\\chromedriver.exe"); 
+//Coloque o caminho para o seu chromedrive
 ```
 Todo o código e execução do mesmo foi feito usando a IDE Netbeans.
 
