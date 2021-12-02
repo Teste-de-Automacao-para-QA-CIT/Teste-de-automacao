@@ -1,6 +1,6 @@
 # Teste de Automação para QA - CI&T
 
-[![NPM](https://img.shields.io/apm/l/react?style=for-the-badge)](https://github.com/Rafas-ms/Health-Space/blob/main/LICENSE)
+[![NPM](https://img.shields.io/apm/l/react?style=for-the-badge)](https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
 
 ### Objetivo:
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
