@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/apm/l/react?style=for-the-badge)](https://github.com/Teste-de-Automacao-para-QA-CIT/Teste-de-automacao/blob/main/LICENSE)
 
-### Objetivo:
+## Objetivo:
 Repositório destinado ao desafio criado para a seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
 Este trabalho tem como objetivo de aprimorar os nossos conhecimentos sobre Testes de Automação com o framework Selenium.
 
