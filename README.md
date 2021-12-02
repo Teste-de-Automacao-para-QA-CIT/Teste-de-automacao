@@ -46,7 +46,7 @@ Todo o código e execução do mesmo foi feito usando a IDE Netbeans.
 
 Após instalar e modificar o caminho do arquivo, selecione o código que será testado, clique com o botão direito e selecione testar arquivo, ou teclando ctrl + F6. Após isso irá abrir a janela do navegador para validar as linhas de código referentes ao teste, e fechar automaticamente caso o mesmo tenha sido bem sucedido.
 
-## 👩‍💻👨‍💻  Integrantes do grupo
+## 👩‍💻💻  Integrantes do grupo 👨‍
 ---
 <table>
   <tr>
