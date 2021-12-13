@@ -65,5 +65,5 @@ Após instalar e modificar o caminho do arquivo, selecione o código que será t
 </table>
 
 <h4 align="center"> 
-	🚧  Projeto 🚀 Em construção...  🚧
+	Projeto concluído 🚀
 </h4>
